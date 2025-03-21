@@ -37,6 +37,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-image: url('images/ZENITH-DARK.png');
+    margin: 0px;
 }
 
 a:link {
@@ -62,6 +63,7 @@ a:visited {
     background-color: #b8d8f5;
     color: black;
     padding: 20px;
+    border-radius: 0px;
 }
 
 #sticky {
