@@ -9,8 +9,7 @@ p {
 }
 .column {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px;
 }
 
 .column img {
@@ -27,6 +26,7 @@ p {
 
 img {
     width: 32.5%;
+    margin:0px;
 }
 
 body {
